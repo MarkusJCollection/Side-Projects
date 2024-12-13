@@ -1,0 +1,23 @@
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\bin\Debug\net8.0\Data\jsonProperties.json
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\bin\Debug\net8.0\AutoDocsDraft.exe
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\bin\Debug\net8.0\AutoDocsDraft.deps.json
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\bin\Debug\net8.0\AutoDocsDraft.runtimeconfig.json
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\bin\Debug\net8.0\AutoDocsDraft.dll
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\bin\Debug\net8.0\AutoDocsDraft.pdb
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\Interop.InteropExtensionLib.dll
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\Interop.Microsoft.Office.Core.dll
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\Interop.ACTIVEXLib.dll
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\AutoDocsDraft.csproj.ResolveComReference.cache
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\AutoDocsDraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\AutoDocsDraft.AssemblyInfoInputs.cache
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\AutoDocsDraft.AssemblyInfo.cs
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\AutoDocsDraft.csproj.CoreCompileInputs.cache
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\AutoDocsDraft.sourcelink.json
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\AutoDocsDraft.dll
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\refint\AutoDocsDraft.dll
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\AutoDocsDraft.pdb
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\AutoDocsDraft.genruntimeconfig.cache
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\obj\Debug\net8.0\ref\AutoDocsDraft.dll
+C:\Users\shuff\Source\Repos\CSharpResume\AutoDocsDraft\bin\Debug\net8.0\Data\csharpdocs\Markus Jesse - General Resume.docx
