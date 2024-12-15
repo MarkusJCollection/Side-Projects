@@ -258,8 +258,8 @@ namespace AutoDocsDraft {
                 // will be alternated between depending on the need.
                 //
                 //Use your own folders as necessary.
-                string folder = "C:\\Users\\shuff\\Documents\\jsonComplexTest";
-                string folder2 = "C:\\Users\\shuff\\Downloads";
+                string folder = "C:\\Users\\[YOUR USER HERE]\\Documents\\jsonComplexTest";
+                string folder2 = "C:\\Users\\[YOUR USER HERE]\\Downloads";
 
                 //We initialize a new file system watcher with specified filters
                 // so that we can know when a new file is updated/placed into a folder.
